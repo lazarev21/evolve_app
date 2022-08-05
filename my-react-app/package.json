@@ -2,7 +2,7 @@
   "name": "my-react-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://evolve.gevargiz.ru/my-react-app",
+  "homepage": "https://dev.evolveapp.org/stat/my-react-app",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
